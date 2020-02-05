@@ -1,3 +1,5 @@
 # Movie App
 
-React JS Fundamentals Course (2020)
+React JS 
+
+https://jiwon-jeong.github.io/movie-app/
