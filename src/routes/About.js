@@ -1,7 +1,13 @@
 import React from "react";
+import "./About.css";
 
 function About() {
-  return <span>About this page</span>;
+  return (
+    <div className="about__container">
+      <span>"Love And Peace!"</span>
+      <span>-Kurt Cobain</span>
+    </div>
+  );
 }
 
 export default About;
