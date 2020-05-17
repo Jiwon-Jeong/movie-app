@@ -2,4 +2,4 @@
 
 React JS 
 
-https://jiwon-jeong.github.io/movie-app/
+https://j-jiwon.github.io/movie-app/
